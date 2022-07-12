@@ -1,7 +1,7 @@
 -- import: fpm
 
--- fpm.package: <user_name>.github.io/<repo_name>
-zip: github.com/<user_name>/<repo_name>/archive/refs/heads/main.zip
+-- fpm.package: amitu.github.io/ektaidnany.com
+zip: github.com/amitu/ektaidnany.com/archive/refs/heads/main.zip
 
 -- fpm.dependency: fifthtry.github.io/doc-site as ds
 
