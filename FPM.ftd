@@ -1,7 +1,9 @@
 -- import: fpm
 
--- fpm.package: amitu.github.io/ektaidnany.com
+-- fpm.package: ektaidnany.com
 zip: github.com/amitu/ektaidnany.com/archive/refs/heads/main.zip
+base: https://raw.githubusercontent.com/amitu/ektaidnany.com/main
+
 
 -- fpm.dependency: fifthtry.github.io/doc-site as ds
 
